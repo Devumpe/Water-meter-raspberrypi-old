@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/siriyaporn/Desktop/water-meter/water-meter-env"
+VIRTUAL_ENV="/Users/siriyaporn/Desktop/storagefirebase/water-meter/water-meter-env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

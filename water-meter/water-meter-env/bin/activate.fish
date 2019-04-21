@@ -56,7 +56,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/siriyaporn/Desktop/water-meter/water-meter-env"
+set -gx VIRTUAL_ENV "/Users/siriyaporn/Desktop/storagefirebase/water-meter/water-meter-env"
 
 # https://github.com/fish-shell/fish-shell/issues/436 altered PATH handling
 if test (echo $FISH_VERSION | tr "." "\n")[1] -lt 3

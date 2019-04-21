@@ -25,7 +25,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/Users/siriyaporn/Desktop/water-meter/water-meter-env"
+$VIRTUAL_ENV = r"/Users/siriyaporn/Desktop/storagefirebase/water-meter/water-meter-env"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
